@@ -12,4 +12,12 @@ go run client/client.go
 you can learn more about echo framework function for handler(http.handler) etc. WrapHandler function 
 can convert http.handler (net/http) to HandlerFunc (echo framework)
 
-# FUN RUN !!!
+```
+https://github.com/labstack/echo/blob/master/echo.go#L708
+```
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+# FUN RUN !!! BY Autherz
